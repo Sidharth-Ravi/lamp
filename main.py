@@ -1,4 +1,4 @@
 def say_hello():
-    return"Hello, World!"
+    return"Hey, World!"
 
 print(say_hello())   
